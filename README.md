@@ -6,7 +6,7 @@ Turns a US QWERTY keyboard into a MIDI controller. Three layouts: **janko** (shi
 
 **Run this with Windows and Python.** The hook and MIDI APIs are Win32-only.
 
-AI-Disclosure: this project was built in collaboration with AI
+**AI-Disclosure:** this project was built in collaboration with AI
 
 ## Setup
 
