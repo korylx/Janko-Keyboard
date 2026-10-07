@@ -1,8 +1,12 @@
+
+
 # Linear QWERTY MIDI controller (Windows)
 
 Turns a US QWERTY keyboard into a MIDI controller. Three layouts: **janko** (shipped in `config.json`), **diatonic**, and **column**. MIDI is sent to a [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) virtual port.
 
-**Run this with Windows Python, not inside WSL.** The hook and MIDI APIs are Win32-only.
+**Run this with Windows and Python.** The hook and MIDI APIs are Win32-only.
+
+AI-Disclosure: this project was built in collaboration with AI
 
 ## Setup
 
