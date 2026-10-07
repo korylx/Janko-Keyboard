@@ -1,0 +1,18 @@
+{
+  "port": "loopMIDI Port",
+  "root_note": 48,
+  "layout": "janko",
+  "channel": 0,
+  "mouse_cc_y": null,
+  "mouse_pitch_bend": false,
+  "mouse_sensitivity": 0.4,
+  "mouse_pitch_sensitivity": 24.0,
+  "mouse_wheel_cc": 1,
+  "mouse_wheel_sensitivity": 8.0,
+  "velocity": {
+    "default": 80,
+    "left_alt": 50,
+    "right_alt": 95
+  },
+  "debug": false
+}
